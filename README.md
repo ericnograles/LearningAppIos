@@ -26,7 +26,7 @@ Please make sure you are always using the latest SDK. The Learning App only supp
 
         1. [iOS Provisioning Panel](#0019)
 
-        2. [Create your apps in the App Center](create-your-apps-in-the-app-center)
+        2. [Create your apps in the App Center](#create-your-apps-in-the-app-center)
 
             1. [Add app to App Center](#0021)
 
