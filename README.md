@@ -26,7 +26,7 @@ Please make sure you are always using the latest SDK. The Learning App only supp
 
         1. [iOS Provisioning Panel](#0019)
 
-        2. [Create your apps in the App Center](#0020)
+        2. [Create your apps in the App Center](create-your-apps-in-the-app-center)
 
             1. [Add app to App Center](#0021)
 
@@ -242,7 +242,6 @@ You must provision your mobile app in the iOS Provisioning Panel. The certificat
 
 39. Use the production and development certificates (the .p12 files) created in the previous steps along with the passwords to add to your MobilePush app in the the *Create your apps in the App Center* step.
 
-<a name="0020"></a>
 ### Create your apps in the App Center
 
 In order to connect your app to your Marketing Cloud account, you must follow these steps:
@@ -253,7 +252,6 @@ In order to connect your app to your Marketing Cloud account, you must follow th
 
 3. Add the Provisioning info created in the iOS Dev Center to the app in the App Center.
 
-<a name="0021"></a>
 #### Add app to App Center
 
 To create a new MobilePush app:
@@ -280,7 +278,6 @@ To create a new MobilePush app:
 
 4. Click **Next** in order to integrate this new app with your Marketing Cloud account.
 
-<a name="0022"></a>
 #### Integrate App Center app
 
 The MobilePush app created in the App Center must be connected to a specific Marketing Cloud account. You must have login credentials for your Marketing Cloud account in order to connect this MobilePush app to the correct Marketing Cloud account.
@@ -317,7 +314,6 @@ Follow these steps in order to connect this MobilePush app to the correct Market
 
     ![image alt text](imgReadMe/image_15.png)
 
-<a name="0023"></a>
 ## Implementing the SDK Push Notifications
 
 >The SDK supports iOS 8, 9, and 10 notifications. For more information about implementing iOS 10 notifications, see [Use iOS 10 Notifications](http://salesforce-marketingcloud.github.io/JB4A-SDK-iOS/features/iOS10-notifications.html).
